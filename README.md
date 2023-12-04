@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)])
+![MasterHead](https://theninehertz.com/wp-content/uploads/2021/02/Grow-Revenue-With-Cross-Platform-App.gif)
 <h1 align="center">Hi 👋, I'm Dumindu Induwara Gamage.</h1>
 <h3 align="center">"A Passionate Mobile App Developer and ML Enthusiast"</h3>
 
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&locale=en" alt="dumiya123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&" alt="dumiya123" /></p>
+
