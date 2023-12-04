@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumiya123" alt="dumiya123" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Machine Learning and**
+- 🌱 I’m currently learning **Flutter,Machine Learning and React Native**
 
-- 📫 How to reach me **gamagedumindui@gmail.com /gamagedumindu170@gmail.com**
+- 📫 How to reach me **gamagedumindui@gmail.com or **gamagedumindu170@gmail.com*
 
 - ⚡ Fun fact **Can stare at code until it fixes itself (results may vary). 🤔✨ Debugging is an art, and I'm the artist.**
 
