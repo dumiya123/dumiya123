@@ -1,4 +1,4 @@
-![MasterHead]([https://theninehertz.com/wp-content/uploads/2021/02/Grow-Revenue-With-Cross-Platform-App.gif](https://devtechnosys.com/insights/wp-content/uploads/2021/03/development-process.gif))
+![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/03/development-process.gif)
 <h1 align="center">Hi 👋, I'm Dumindu Induwara Gamage.</h1>
 <h3 align="center">"A Passionate Mobile App Developer and ML Enthusiast"</h3>
 
