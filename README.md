@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/16294888/media/c19ab69ab161d8d89b525e134ccea5ee.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)])
 <h1 align="center">Hi 👋, I'm Dumindu Induwara Gamage.</h1>
 <h3 align="center">"A Passionate Mobile App Developer and ML Enthusiast"</h3>
 
