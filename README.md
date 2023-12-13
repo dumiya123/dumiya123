@@ -1,6 +1,6 @@
 ![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/03/development-process.gif)
 <h1 align="center">Hi 👋, I'm Dumindu Induwara Gamage.</h1>
-<h3 align="center">"A Passionate Mobile App Developer and ML Enthusiast"</h3>
+<h3 align="center">"A Passionate Mobile App Developer and ML Enthusiast From Sri Lanaka"</h3>
 
 <img align="center" alt="Coding" width="900"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
