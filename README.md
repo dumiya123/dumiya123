@@ -125,4 +125,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&locale=en" alt="dumiya123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&" alt="dumiya123" /></p>
+
