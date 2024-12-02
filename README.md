@@ -1,15 +1,11 @@
 ![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/03/development-process.gif)
 <h1 align="center">Hi 👋, I'm Dumindu Induwara Gamage.</h1>
-<h3 align="center">"A Passionate Mobile App Developer and ML Enthusiast From Sri Lanka"</h3>
-
-<img align="center" alt="Coding" width="900"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
+<h3 align="center">"A Passionate Web and Mobile App Developer and ML Enthusiast From Sri Lanka"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumiya123&label=Profile%20views&color=0e75b6&style=flat" alt="dumiya123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumiya123" alt="dumiya123" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Machine Learning and React Native**
+- 🌱 I’m currently learning **React,Next js and React Native**
   
 - 📫 How to reach me **gamagedumindui@gmail.com or **gamagedumindu170@gmail.com*.
 
