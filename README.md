@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Next js and React Native**
   
-- 📫 How to reach me **gamagedumindui@gmail.com or **gamagedumindu170@gmail.com*.
+- 📫 How to reach me gamagedumindui@gmail.com or gamagedumindu170@gmail.com.
 
 - ⚡ Fun fact **Can stare at code until it fixes itself (results may vary). 🤔✨ Debugging is an art, and I'm the artist.**
 
