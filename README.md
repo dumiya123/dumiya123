@@ -25,9 +25,12 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![dumiya123's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=radical)
-![dumiya123's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&theme=radical)
-![dumiya123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=radical" alt="dumiya123's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&theme=radical" alt="dumiya123's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=radical" alt="dumiya123's Top Languages" />
+</div>
+
 
 ## 🗓️ Commit History
 
@@ -41,8 +44,9 @@ Feel free to connect with me through any of the following platforms:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumiya123)
 - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dumiya123)
-- [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com)
-- 📧 **Email:** [your-email@example.com]
+<!-- - [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com) -->
+
+- 📧 **Email:** [gamagedumindui@gmail.com]
 
 ## 👀 Profile Views
 
