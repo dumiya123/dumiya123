@@ -25,12 +25,17 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=radical" alt="dumiya123's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&theme=radical" alt="dumiya123's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=radical" alt="dumiya123's Top Languages" />
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=radical" alt="dumiya123's GitHub stats" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&theme=radical" alt="dumiya123's GitHub streak" style="max-width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=radical" alt="dumiya123's Top Languages" style="max-width: 100%; height: auto;" />
+  </div>
 </div>
-
 
 ## 🗓️ Commit History
 
