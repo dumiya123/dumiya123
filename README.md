@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumiya123" alt="dumiya123" /></a> </p>
 
+
 - 🌱 I’m currently learning **React,Next js and React Native**
   
 - 📫 How to reach me gamagedumindui@gmail.com or gamagedumindu170@gmail.com.
