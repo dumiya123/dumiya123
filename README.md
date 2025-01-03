@@ -35,9 +35,6 @@ Here are some of the technologies and tools I work with:
   </div>
 </div>
 
-
-
-
 ## 🗓️ Commit History
 
 Here is a graphical representation of my commit history:
@@ -48,11 +45,11 @@ Here is a graphical representation of my commit history:
 
 Feel free to connect with me through any of the following platforms:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dumiya123)
-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dumiya123)
+- [![LinkedIn](www.linkedin.com/in/dumindu-gamage-610b24252)
+- <!-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dumiya123)--!>
 <!-- - [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com) -->
 
-- 📧 **Email:** [gamagedumindui@gmail.com]
+- 📧Email:[gamagedumindui@gmail.com]
 
 ## 👀 Profile Views
 
