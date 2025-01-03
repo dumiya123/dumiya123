@@ -25,18 +25,17 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: flex; gap: 20px; justify-content: center; flex: 1; min-width: 600px;">
-    <!-- GitHub Streak Graph -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&theme=radical" alt="dumiya123's GitHub streak" style="max-width: 48%; height: auto;" />
-    <!-- GitHub Stats Graph -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=radical" alt="dumiya123's GitHub stats" style="max-width: 48%; height: auto;" />
+<div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumiya123&theme=radical" alt="GitHub Streak" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
   </div>
-  <!-- Top Languages Graph -->
-  <div style="margin-top: 20px; text-align: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=radical" alt="dumiya123's Top Languages" style="max-width: 60%; height: auto;" />
+  <div style="margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;" />
   </div>
 </div>
+
+
 
 
 ## 🗓️ Commit History
