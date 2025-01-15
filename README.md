@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 - 🌐 Frontend Development: React, JavaScript, HTML, CSS
 - 🔧 Backend Development: Node.js, Spring Boot
 - 🗄️ Databases: MySQL,MongoDB
-- 🛠️Tools:** Git, Docker, VS Code
+- 🛠️Tools: Git, Docker, VS Code
 
 ## 📈 GitHub Stats
 
