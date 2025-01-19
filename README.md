@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in �
 - 🤔  I’m looking for help with optimizing React applications, understanding advanced JavaScript concepts, and debugging challenging code.
 - 💬  Ask me about React, JavaScript, front-end development, and how to build web pages, user interfaces, and interactive features.
 - 📫 How to reach me: gamagedumindui@gmail.com for project inquiries or collaboration opportunities.
-- 😄 Pronouns: **Dumiya**
+- 😄 Pronouns:Dumiya
 - ⚡ Fun fact: I enjoy troubleshooting code, and I believe every bug is just an opportunity to learn something new. 😊
 
 ## 🛠️ Technologies & Tools
