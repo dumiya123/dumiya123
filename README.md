@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 
 - 💻 Programming Languages: JavaScript, Python, Java
 - 🌐 Frontend Development: React, JavaScript, HTML, CSS
-- 🔧 Backend Development: Node.js, Spring Boot
+- 🔧 Backend Development: Node.js, Spring Boot,Express.js
 - 🗄️ Databases: MySQL,MongoDB
 - 🛠️Tools: Git, Docker, VS Code
 
