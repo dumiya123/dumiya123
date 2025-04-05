@@ -55,4 +55,4 @@ Feel free to connect with me through any of the following platforms:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dumiya123&color=blue)
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just say hi!!
+Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just say hi!
