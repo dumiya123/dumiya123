@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dumindu Gamage!! 👋</h1>
 
 
-Welcome to my GitHub profile! I'm a passionate developer with an interest in 🌐 web development, 🧠 data science, and more. Here's a little about me and what I do:
+Welcome to my GitHub profile! I'm a passionate developer with an interest in 🌐 web development, 🧠 data science, and more. Here's a little about me and what I do!
 
 ## 🚀 About Me
 
