@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in �
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at Thyaga as a Front-end Developer.
+- 🔭 I’m currently studying as a Final Year Student at IIT.
 - 🌱 I’m currently learning React, React Native, and Spring Boot to expand my development skills and stay updated with modern frameworks.
 - 👯  I’m looking to collaborate on open-source projects or web development initiatives to improve my skills and contribute to the community.
 - 🤔  I’m looking for help with optimizing React applications, understanding advanced JavaScript concepts, and debugging challenging code.
 - 💬  Ask me about React, JavaScript, front-end development, and how to build web pages, user interfaces, and interactive features.
 - 📫 How to reach me: gamagedumindui@gmail.com for project inquiries or collaboration opportunities.
-- 😄 Pronouns:Dumiya
+- 😄 Pronouns: Dumiya
 - ⚡ Fun fact: I enjoy troubleshooting code, and I believe every bug is just an opportunity to learn something new. 😊
 
 ## 🛠️ Technologies & Tools
@@ -20,8 +20,8 @@ Here are some of the technologies and tools I work with:
 
 - 💻 Programming Languages: JavaScript, Python, Java
 - 🌐 Frontend Development: React, JavaScript, HTML, CSS
-- 🔧 Backend Development: Node.js, Spring Boot,Express.js
-- 🗄️ Databases: MySQL,MongoDB
+- 🔧 Backend Development: Node.js, Spring Boot, Express.js
+- 🗄️ Databases: MySQL ,MongoDB
 - 🛠️Tools: Git, Docker, VS Code
 
 ## 📈 GitHub Stats
