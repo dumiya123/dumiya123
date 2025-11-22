@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in �
 
 ## 🚀 About Me
 
-- 🔭 I’m currently studying as a Final Year Student at IIT.
+- 🔭 I’m currently studying as a Final Year Student at IIT Sri Lanka.
 - 🌱 I’m currently learning React, React Native, and Spring Boot to expand my development skills and stay updated with modern frameworks.
 - 👯  I’m looking to collaborate on open-source projects or web development initiatives to improve my skills and contribute to the community.
 - 🤔  I’m looking for help with optimizing React applications, understanding advanced JavaScript concepts, and debugging challenging code.
