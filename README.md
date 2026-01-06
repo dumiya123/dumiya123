@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in �
 
 ## 🛠️ Technologies & Tools
 
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I work with ,
 
 - 💻 Programming Languages: JavaScript, Python, Java
 - 🌐 Frontend Development: React, JavaScript, HTML, CSS
