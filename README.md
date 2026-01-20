@@ -1,4 +1,4 @@
-<h1 align="center">Dumindu Gamage</h1>
+<h1 align="center">Hi I am Dumindu Gamage!!</h1>
 
 Software Engineer with **strong full-stack fundamentals** and **hands-on industry exposure through internship experience**.  
 Focused on building **clean, scalable, and maintainable web applications** using modern frontend and backend technologies.
