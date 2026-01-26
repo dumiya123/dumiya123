@@ -11,14 +11,6 @@ Comfortable working in real codebases, following best practices, and collaborati
 
 ---
 
-### 🧠 Technical Strengths
-- Solid understanding of frontend architecture and component-based design  
-- Backend development with RESTful APIs and layered architectures  
-- Writing clean, readable, and maintainable code  
-- Debugging, refactoring, and performance-aware development  
-
----
-
 ### 🛠 Technology Stack
 **Languages:** JavaScript, Java, Python  
 **Frontend:** React, HTML5, CSS3  
@@ -27,8 +19,19 @@ Comfortable working in real codebases, following best practices, and collaborati
 **Tools:** Git, Docker, VS Code  
 
 ---
+### 🧠 Technical Strengths
+- Solid understanding of frontend architecture and component-based design  
+- Backend development with RESTful APIs and layered architectures  
+- Writing clean, readable, and maintainable code  
+- Debugging, refactoring, and performance-aware development  
 
-### 📊 GitHub Activity
+---
+### 📈 Github Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dumiya123"/>
+
+---
+### 📊 GitHub Status & Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=default"/>
 
@@ -36,9 +39,7 @@ Comfortable working in real codebases, following best practices, and collaborati
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact"/>
 
-
-
-
+---
 ### 🚀 Professional Experience & Growth
 - Internship experience working with production-level code  
 - Exposure to real-world development workflows and team collaboration  
