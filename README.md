@@ -1,5 +1,9 @@
 <h1 align="center">Hi I am Dumindu Gamage!!</h1>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat"/> 
+</p>
+
 Software Engineer with **strong full-stack fundamentals** and **hands-on industry exposure through internship experience**.  
 Focused on building **clean, scalable, and maintainable web applications** using modern frontend and backend technologies.
 
@@ -23,6 +27,17 @@ Comfortable working in real codebases, following best practices, and collaborati
 **Tools:** Git, Docker, VS Code  
 
 ---
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=default"/>
+
+### Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact"/>
+
+
+
 
 ### 🚀 Professional Experience & Growth
 - Internship experience working with production-level code  
