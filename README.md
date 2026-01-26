@@ -1,7 +1,7 @@
 <h1 align="center">Hi I am Dumindu Gamage!!</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat"/> 
+    <img src="https://komarev.com/ghpvc/?username=dumiya123&label=Profile%20Views&color=blue&style=flat"/> 
 </p>
 
 Software Engineer with **strong full-stack fundamentals** and **hands-on industry exposure through internship experience**.  
