@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+      src="https://capsule-render.vercel.app/api?type=wave&height=250&text=Dumindu%20Gamage&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=40&descSize=18&color=gradient"
+      alt="Software Engineer Banner."
+      />
+    
+</p>
+
 <h1 align="center">Hi I am Dumindu Gamage!!</h1>
 
 <p align="center">
@@ -26,14 +34,15 @@ Comfortable working in real codebases, following best practices, and collaborati
 - Debugging, refactoring, and performance-aware development  
 
 ---
-### 📈 Github Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dumiya123"/>
-
----
 ### 📊 GitHub Status & Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=default"/>
+
+---
+### 📈 Github Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dumiya123"/>
 
 ### Top Languages
 
