@@ -16,7 +16,6 @@ Software Engineer with **strong full-stack fundamentals** and **hands-on industr
 Focused on building **clean, scalable, and maintainable web applications** using modern frontend and backend technologies.
 
 Comfortable working in real codebases, following best practices, and collaborating with teams to deliver reliable features.
-
 ---
 
 ### 🛠 Technology Stack
