@@ -85,15 +85,11 @@ I'm a **full-stack software engineer** focused on building maintainable, scalabl
 
 ## 📊 &nbsp;GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dumiya123&show_icons=true&theme=dark&hide_border=true&bg_color=0f2027&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumiya123&layout=compact&theme=dark&hide_border=true&bg_color=0f2027&title_color=61DAFB&text_color=ffffff" />
-</p>
+[![Dumindu's github stats](https://github-readme-mwendwa.vercel.app/api?username=dumiya123&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=dumiya123&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumiya123&theme=react-dark&hide_border=true&bg_color=0f2027&color=61DAFB&line=2c5364&point=61DAFB" />
-</p>
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=dumiya123&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
 
