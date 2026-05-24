@@ -22,7 +22,6 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=dumiya123&label=Profile+Views&color=203a43&style=for-the-badge" />
 </p>
-
 ---
 
 ## 👨‍💻 &nbsp;About Me
