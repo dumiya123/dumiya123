@@ -33,7 +33,6 @@ I'm a **full-stack software engineer** focused on building maintainable, scalabl
 - 💬 &nbsp;Ask me about **React**, **Node.js**, **Spring Boot**, or **RESTful API design**
 
 ---
-
 ## 🛠 &nbsp;Tech Stack
 
 ### Languages
