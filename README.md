@@ -49,16 +49,6 @@ Comprehensive budget management application for intelligent financial planning
 - **Tech**: JavaScript, React, Full-stack Development
 - **Highlights**: Real-time budget tracking, financial analytics, responsive UI
 
-### 🐾 [BarkMeow: Pet Care Application](https://github.com/dumiya123/SDGP_Group_14_Project_Trojans)
-Specialized pet care platform designed for Sri Lankan pet owners
-- **Tech**: Multi-platform Development
-- **Highlights**: Community-driven solutions, health tracking
-
-### 📚 [Data Structures & Algorithms Repository](https://github.com/dumiya123/Data-Structures-and-Algorithms)
-Comprehensive open-source educational resource for DSA learning and interview prep
-- **Tech**: Multiple Languages (Java, Python, C++)
-- **Highlights**: 1000+ implementations, detailed explanations, interview questions
-
 ### 🎮 [Sliding Puzzles Game](https://github.com/dumiya123/Sliding-Puzzles-Game)
 Interactive puzzle game with AI-powered solving algorithms
 - **Tech**: Java, Game Development, Algorithm Optimization
