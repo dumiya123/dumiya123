@@ -128,7 +128,6 @@ Enterprise-level ticketing management system demonstrating advanced software eng
 [![Dumindu's current streak](https://streak-stats.demolab.com/?user=dumiya123&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
----
 ## Activity Graph
 
 <div align="center">
