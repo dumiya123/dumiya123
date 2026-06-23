@@ -128,6 +128,13 @@ Enterprise-level ticketing management system demonstrating advanced software eng
 [![Dumindu's current streak](https://streak-stats.demolab.com/?user=dumiya123&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
+---
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumiya123&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=e2e8f0&area=true&hide_border=true" alt="activity graph" />
+</div>
+
 
 ## 🤝 &nbsp;Let's Connect
 
