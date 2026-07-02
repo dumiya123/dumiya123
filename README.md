@@ -24,7 +24,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 &nbsp;About Me
 
 I'm a **full-stack software engineer** focused on building maintainable, scalable systems using modern web technologies and clean engineering principles.
