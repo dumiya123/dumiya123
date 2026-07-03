@@ -33,7 +33,6 @@ I'm a **full-stack software engineer** focused on building maintainable, scalabl
 - 🌱 &nbsp;Deepening expertise in **system design**, **performance optimization**, and **distributed systems**
 - 🎯 &nbsp;Long-term goal: grow into a **senior engineer** capable of designing and leading complex software systems
 - 💬 &nbsp;Ask me about **React**, **Java**, **Python**, **Kotlin**, or **System Architecture**
-
 ---
 
 ## 🌟 &nbsp;Featured Projects
