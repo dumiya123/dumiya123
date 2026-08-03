@@ -56,7 +56,6 @@ Interactive puzzle game with AI-powered solving algorithms
 Enterprise-level ticketing management system demonstrating advanced software engineering
 - **Tech**: Java, OOP, Database Design
 - **Highlights**: Real-world application architecture, scalable design
-
 ---
 
 ## 🛠 &nbsp;Tech Stack
