@@ -133,7 +133,6 @@ Enterprise-level ticketing management system demonstrating advanced software eng
 
 ## 🤝 &nbsp;Let's Connect
 
-
 I'm always interested in collaborating on innovative projects, discussing software architecture, and contributing to open-source initiatives. Feel free to reach out!
 
 <p align="center">
