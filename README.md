@@ -100,6 +100,12 @@ Databases & infra:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+Devops tools and technologies:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
 ---
 
 ## Engineering focus
@@ -111,16 +117,6 @@ Databases & infra:
 | ML / Data | Reproducible experiments, model explainability, deployment |
 | Quality | Tests, CI, code reviews, clear documentation |
 | Architecture | Scalability, fault tolerance, clear contracts |
-
----
-
-## DevOps
-
-I work with containerization, continuous integration, and Linux-based systems to make deployments repeatable and reliable. Common tools I use:
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
