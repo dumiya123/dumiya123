@@ -28,6 +28,16 @@
 
 I'm a full‑stack software engineer who cares about readable code, reliable systems, and practical ML. I work across frontends, backends, and data-driven models — and I prefer solutions that are maintainable in the long run.
 
+I was not born with extraordinary talent for programming. What I have built instead is something I value even more: an unwavering hunger to learn, build, improve, and solve difficult problems.
+
+I genuinely love software engineering not simply for writing code, but for the ability to turn an idea into something real, useful, and impactful. I am constantly pushing myself to understand new technologies, explore better engineering practices, and build solutions that challenge my current capabilities. When I encounter something I do not know, my instinct is not to avoid it, but to learn it, experiment with it, and eventually build with it.
+
+I believe great software is built through curiosity, discipline, persistence, and the willingness to keep learning long after the easy part is over. I may not always be the person with the most natural talent in the room, but I strive to be the person who is willing to work harder, learn deeper, and keep going when the problem becomes difficult.
+
+My ambition is not simply to become someone who can write code. I want to become an engineer capable of turning ambitious ideas into robust, scalable, and meaningful technology.
+
+I strongly believe that dreams give us a reason to live and mine is to spend my life learning, building, and creating things that I can be genuinely proud of.
+
 What I enjoy working on:
 
 - Building REST APIs and resilient backend services
