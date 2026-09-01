@@ -104,6 +104,16 @@ Databases & infra:
 
 ---
 
+## DevOps
+
+I work with containerization, continuous integration, and Linux-based systems to make deployments repeatable and reliable. Common tools I use:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
+---
+
 ## GitHub stats & activity
 
 [![Dumindu's github stats](https://github-readme-mwendwa.vercel.app/api?username=dumiya123&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](https://github.com/dumiya123)
