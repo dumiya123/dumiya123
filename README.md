@@ -63,7 +63,7 @@ A full-stack budgeting tool that helps users visualize spending patterns and mak
 - https://github.com/dumiya123/sdgp_group_41_boolean_autocrats
 
 **🎮 Sliding Puzzles Game**
-A Java implementation exploring different solver algorithms (A*, BFS, DFS) and comparing their performance. The UI lets you watch algorithms solve the puzzle in real-time.
+A Java implementation exploring different solver algorithms (A*, BFS, DFS) and comparing their performance. The UI lets you watch algorithms solve the puzzle in real time.
 - Tech: Java, Algorithm Analysis
 - Learning focus: Algorithm optimization, complexity analysis
 - https://github.com/dumiya123/Sliding-Puzzles-Game
