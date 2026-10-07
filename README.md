@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  I build software that is practical, reliable, and built to last. I enjoy turning complex problems into simple, useful systems and constantly learning along the way.
+  I build software that solves real problems. My focus is on systems that scale, code that's maintainable, and solutions that actually work when things get tough. I love the intersection of solid engineering and meaningful impact.
 </p>
 
 <p align="center">
@@ -24,45 +24,56 @@
 
 ---
 
-## About Me
+## What I Do
 
-I'm a full-stack software engineer who likes building things that actually help people. My work spans frontend, backend, and machine learning, and I enjoy projects where I can combine clean engineering with real-world usefulness.
+I don't just write code. I think deeply about the problems I'm solving, design systems that are reliable, and write code that other engineers actually want to work with. Whether it's backend architecture, frontend experiences, or machine learning models, I approach everything with the same mindset: keep it simple, make it robust, document it well.
 
-I did not start with a perfect coding background. What I do have is a strong habit of learning, improving, and staying curious when something feels difficult. That mindset has carried me much further than raw talent alone ever could.
+I spent years learning the hard way that talent alone doesn't cut it. What matters is consistency, curiosity, and the willingness to get uncomfortable when solving difficult problems. That's become my foundation.
 
-For me, software engineering is more than writing code. It is about taking an idea, shaping it into something real, and making it useful for people. That is what keeps me motivated.
+What drives me:
 
-I care about:
+- Building backend systems that don't break under pressure
+- Crafting interfaces that are intuitive and accessible
+- Working on ML projects that have real-world value, not just academic interest
+- Writing tests that catch bugs before users find them
+- Making infrastructure decisions that pay off months later
 
-- Building backend services that are reliable and easy to maintain
-- Designing responsive and accessible user interfaces
-- Working on machine learning projects with practical value
-- Improving performance, testing, and deployment quality
-- Writing code that is clear and easy for others to trust
+---
+
+## Currently Working On
+
+**🔒 Cybersecurity + Full-Stack Project** (in progress)
+Exploring the intersection of application security and modern full-stack architecture. Still defining the exact scope, but the core idea is building a system that demonstrates secure coding patterns, threat mitigation, and resilient design all in one place. Planning to share the learnings and patterns as I go.
 
 ---
 
 ## Featured Projects
 
-A few of the projects I have worked on and enjoyed building:
+A few projects I've built and genuinely learned from:
 
-- 🔬 AttrioNet: High-Grade AV Block Detection
-  A deep learning project focused on ECG analysis and explainability in medical signal detection.
-  - https://github.com/dumiya123/atrionnet-high-grade-av-block-detection
+**🔬 AttrioNet: High-Grade AV Block Detection**
+Deep learning for cardiac arrhythmia detection using ECG signals. The challenging part wasn't just getting accuracy high, but making the model explainable so clinicians could actually trust the predictions.
+- Tech: Python, TensorFlow, Signal Processing
+- https://github.com/dumiya123/atrionnet-high-grade-av-block-detection
 
-- 💰 SaveNest: Budget Planning Application
-  A full-stack budgeting app built to help users plan, track, and understand their spending.
-  - https://github.com/dumiya123/sdgp_group_41_boolean_autocrats
+**💰 SaveNest: Budget Planning Application**
+A full-stack budgeting tool that helps users visualize spending patterns and make better financial decisions. Built with a focus on real-time updates and intuitive data visualization.
+- Tech: React, Node.js, Express, MongoDB
+- Features: Real-time analytics, interactive charts, expense categorization
+- https://github.com/dumiya123/sdgp_group_41_boolean_autocrats
 
-- 🎮 Sliding Puzzles Game
-  A Java puzzle game with UI and solver logic built around algorithmic problem solving.
-  - https://github.com/dumiya123/Sliding-Puzzles-Game
+**🎮 Sliding Puzzles Game**
+A Java implementation exploring different solver algorithms (A*, BFS, DFS) and comparing their performance. The UI lets you watch algorithms solve the puzzle in real-time.
+- Tech: Java, Algorithm Analysis
+- Learning focus: Algorithm optimization, complexity analysis
+- https://github.com/dumiya123/Sliding-Puzzles-Game
 
-- 🎭 Theatre Ticketing System
-  A course project focused on object-oriented design and scalable system architecture.
-  - https://github.com/dumiya123/theatre-coursework-ticketing-system
+**🎭 Theatre Ticketing System**
+A course project that went deeper than most. Focused on proper OOP design, handling edge cases (overbooking, cancellations, refunds), and building a system that wouldn't break under real-world scenarios.
+- Tech: Java, Object-Oriented Design, Database modeling
+- https://github.com/dumiya123/theatre-coursework-ticketing-system
 
-If you want to explore more, feel free to check out my profile and reach out about any project.
+More projects and experiments on my profile. I build things to learn, not just to ship.
 
 ---
 
@@ -106,15 +117,16 @@ If you want to explore more, feel free to check out my profile and reach out abo
 
 ---
 
-## Engineering Focus
+## How I Approach Problems
 
-| Area | What I care about |
+| Area | My Philosophy |
 |---|---|
-| Frontend | Clean UI design, usability, accessibility |
-| Backend | Reliable APIs, clean structure, maintainability |
-| ML / Data | Practical models, reproducibility, explainability |
-| Quality | Testing, CI, and thoughtful code review |
-| Architecture | Scalability, clear contracts, resilient systems |
+| Frontend | Build for the user first, then optimize. Performance and accessibility aren't afterthoughts. |
+| Backend | Design for failure. Write APIs that are predictable and forgiving. |
+| ML / Data | Model accuracy is only half the battle. Reproducibility and explainability matter more. |
+| Quality | Tests aren't a checkbox. They're your safety net and documentation rolled into one. |
+| Architecture | Start simple, scale thoughtfully. Avoid premature complexity. |
+| Code | Readable beats clever. Every time. |
 
 ---
 
@@ -130,8 +142,16 @@ If you want to explore more, feel free to check out my profile and reach out abo
 
 ## Let's Connect
 
-I'm open to collaboration, interesting engineering conversations, and projects that are worth building. If you want to work together, talk about software, or ask about a project, feel free to reach out.
+I'm actively looking to collaborate on interesting problems, contribute to projects doing meaningful work, and engage with engineers who think deeply about their craft.
+
+**Specifically interested in:**
+- Full-stack projects with a focus on security and performance
+- Open-source contributions in backend frameworks or ML tooling
+- Technical discussions around architecture, testing, and scalability
+- Mentoring or being mentored on engineering excellence
+
+If any of that resonates, or if you just want to chat about software engineering, hit me up on LinkedIn or drop an email. I genuinely enjoy connecting with people who care about building better systems.
 
 <p align="center">
-  <em>Always learning. Always building.</em>
+  <em>The work is never done. That's what makes it interesting.</em>
 </p>
